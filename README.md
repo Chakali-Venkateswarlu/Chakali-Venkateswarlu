@@ -4,7 +4,7 @@
 <h3 align="center">AI Researcher | Data Scientist | Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chakali-Venkateswarlu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -97,24 +97,35 @@
 
 ## 📊 GitHub Statistics
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chakali-Venkateswarlu&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chakali-Venkateswarlu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chakali-Venkateswarlu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chakali-Venkateswarlu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chakali-Venkateswarlu&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakali-Venkateswarlu&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chakali-Venkateswarlu&theme=tokyo-night" />
 </p>
 
----
+
 
 ## 🌐 Coding Profiles
 
