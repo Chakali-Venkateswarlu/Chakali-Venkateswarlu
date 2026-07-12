@@ -141,7 +141,7 @@
 
 💼 LinkedIn: **https://www.linkedin.com/in/chakalivenkateswarlu/**
 
-🌐 Portfolio: **https://v0-portfolio-website-opal-tau.vercel.app/**
+🌐 Portfolio: **https://v0-venkateswarlu.vercel.app/**
 
 ---
 
