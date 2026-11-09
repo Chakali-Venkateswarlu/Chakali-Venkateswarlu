@@ -9,18 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Chakali-Venkateswarlu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
----
 
-## 🔬 Currently
-
-**Technical Staff Member — TANUH, IISc Bangalore** *(Aug 2026 – Present)*
-
-Working in the Renal Health Vertical on deep-learning assessment of chronic kidney
-disease: eGFR prediction from renal ultrasound imaging combined with clinical
-parameters, using ResNet-based architectures and ensemble learning, evaluated on
-MAE, R² and AUROC.
-
----
 
 ## 🚀 About Me
 
